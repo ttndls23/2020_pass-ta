@@ -23,13 +23,14 @@ H/W(아두이노 MCU, RFID, 알코올 센서)</br></br>
 
 
 <h3>실행 화면</h3>
-<h5>웹 페이지</h5></br>
-![paasta1](https://user-images.githubusercontent.com/49181283/118804260-6ebc8b00-b8df-11eb-83eb-06fad83b0c96.png)</br>
+<h5>웹 페이지</h5>
 검색 및 지도 페이지</br>
-![paasta2](https://user-images.githubusercontent.com/49181283/118804266-72501200-b8df-11eb-8328-ef58e390d8ff.png)</br>
-식당 상세 정보(방문자 수, 소독 시간, 잔여 좌석)</br></br>
+<img src ="https://user-images.githubusercontent.com/49181283/118804260-6ebc8b00-b8df-11eb-83eb-06fad83b0c96.png"></br></br>
+식당 상세 정보(방문자 수, 소독 시간, 잔여 좌석)</br>
+<img src ="https://user-images.githubusercontent.com/49181283/118804266-72501200-b8df-11eb-8328-ef58e390d8ff.png"></br></br>
 
-<h5>반응형 웹 페이지</h5></br>
-![paasta4](https://user-images.githubusercontent.com/49181283/118804269-7419d580-b8df-11eb-8284-7ce31cf28e17.png)</br>
-![paasta5](https://user-images.githubusercontent.com/49181283/118804272-754b0280-b8df-11eb-9712-899909116643.png)</br>
-식당 상세 정보(방문자 수, 소독 시간, 잔여 좌석)</br></br>
+<h5>반응형 웹 페이지</h5>
+식당 상세 정보(소독 시간&지도)</br>
+<img src ="https://user-images.githubusercontent.com/49181283/118804269-7419d580-b8df-11eb-8284-7ce31cf28e17.png"></br>
+식당 상세 정보(방문자 수, 잔여 좌석)</br>
+<img src ="https://user-images.githubusercontent.com/49181283/118804272-754b0280-b8df-11eb-9712-899909116643.png">
